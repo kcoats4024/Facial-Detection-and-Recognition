@@ -4,8 +4,7 @@
 
 # GUI
 
-![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/000a6b5a-49ff-43e6-92d3-d52804f9344f)
-<img src="https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/000a6b5a-49ff-43e6-92d3-d52804f9344f" alt="My Image" width="200" height="150">
+![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/4412c0f0-4575-45ba-9eef-bf64548d3862)
 
 ### Browse Image:
 - Files Application will appear, select file with a face to be recognized (make sure it is recognizable by the model by clicking "Show Recognizable Names")
