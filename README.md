@@ -1,4 +1,4 @@
-# Model Statistics and Information
+# Model Statistics, Information & Project Summary
 ![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/b453a31c-6590-4f48-b676-032816770375)
 
 # GUI
@@ -13,11 +13,11 @@
 Original:
 ![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/0d02466e-e798-4ddc-bc29-0c9fd0fe1241)
 
-GUI:
 ![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/ea7c5e02-a108-41be-a285-0ac9c0278996)
-- 
+
+-
 - 
 
-### Evaluate:
-### Confirm:
-### Show Recognizable Names:
+### Evaluate Button:
+### Confirm Button:
+### Show Recognizable Names Button:
