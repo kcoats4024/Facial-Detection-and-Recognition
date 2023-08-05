@@ -21,8 +21,10 @@ Cropped to face:
 - Now the Face is ready to be evaluated via the "Evaluate" button
 
 ### Evaluate Button:
-- Upon clicking, a prediction of the name of the face along with the confidence score is displayed:
+- Upon clicking, the image is ran through the model and a prediction of the name of the face along with the confidence score is displayed:
 ![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/5dc193a2-f71a-4037-b601-60084f101fa5)
+- Now the evaluation is ready to be confirmed via the "Confirm" button
 
 ### Confirm Button:
+-
 ### Show Recognizable Names Button:
