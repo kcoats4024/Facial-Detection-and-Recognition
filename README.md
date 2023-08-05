@@ -6,8 +6,8 @@
 ![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/000a6b5a-49ff-43e6-92d3-d52804f9344f)
 ### Browse Image:
 - Files Application will appear, select file with a face to be recognized (make sure it is recognizable by the model by clicking "Show Recognizable Names")
-
-- h
+![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/21b5c698-c474-4182-86fb-1964d67aa377)
+- 
 - 
 
 ### Evaluate:
