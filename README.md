@@ -27,6 +27,7 @@ Cropped to face:
 
 ### Confirm Button:
 - Upon clicking (confirming the prediction is correct), the image will be filed into the corresponding person's folder, which has already been automatically created for all recognizable faces. All of these folders are in folder "target_folders"
+![GUI showing prediction and confidence score](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/420fb032-3832-4d97-841b-9200ee7d2bc5)
 
 ### Show Recognizable Names Button:
 - Upon clicking, a list of all all recognizable faces by the model will be displayed
