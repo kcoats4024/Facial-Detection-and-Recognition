@@ -1,5 +1,5 @@
 # Model Statistics and Information
-
+![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/b453a31c-6590-4f48-b676-032816770375)
 
 # GUI
 
