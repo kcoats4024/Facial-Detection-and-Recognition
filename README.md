@@ -7,6 +7,6 @@
 ## Browse Image:
 Files Application will appear, select file with a face to be recognized (make sure it is recognizable by the model by clicking "Show Recognizable Names")
 
-## Evaluate:
+### Evaluate:
 ## Confirm:
 ## Show Recognizable Names:
