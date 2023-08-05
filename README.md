@@ -18,7 +18,7 @@ Cropped to face:
 
 ![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/ea7c5e02-a108-41be-a285-0ac9c0278996)
 
--why is this bold
+- 
 - 
 
 ### Evaluate Button:
