@@ -26,5 +26,7 @@ Cropped to face:
 - Now the evaluation is ready to be confirmed via the "Confirm" button
 
 ### Confirm Button:
-- Upon clicking (confirming the prediction is correct) the image will be filed into the corresponding person's folder, which have all been automatically
+- Upon clicking (confirming the prediction is correct), the image will be filed into the corresponding person's folder, which has already been automatically created for all recognizable faces. All of these folders are in folder "target_folders"
+
 ### Show Recognizable Names Button:
+- Upon clicking, a list of all all recognizable faces by the model will be displayed
