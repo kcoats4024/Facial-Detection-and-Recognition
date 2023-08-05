@@ -6,7 +6,7 @@
 ![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/4412c0f0-4575-45ba-9eef-bf64548d3862)
 
 ### Browse Image Button:
-- Files Application will appear, select file with a face to be recognized (make sure it is recognizable by the model by clicking "Show Recognizable Names")
+- Upon clicking, the files Application will appear - select file with a face to be recognized (make sure the face is recognizable by the model by clicking "Show Recognizable Names")
 
 ![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/21b5c698-c474-4182-86fb-1964d67aa377)
 - Upon Selecting "Open" on files application, the cropped image of the face will appear
