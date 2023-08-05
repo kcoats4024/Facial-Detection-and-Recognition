@@ -22,6 +22,7 @@ Cropped to face:
 
 ### Evaluate Button:
 - Upon clicking, a prediction of the name of the face along with the confidence score is displayed:
+![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/5dc193a2-f71a-4037-b601-60084f101fa5)
 
 ### Confirm Button:
 ### Show Recognizable Names Button:
