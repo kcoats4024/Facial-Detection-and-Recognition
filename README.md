@@ -27,6 +27,7 @@ Cropped Facial Region:
 ### Evaluate Button:
 - Click to process the cropped image through the model.
 - The model predicts the face's identity and displays it alongside a confidence score.
+  
 ![GUI with prediction and confidence score](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/5dc193a2-f71a-4037-b601-60084f101fa5)
 
 ### Confirm Button:
