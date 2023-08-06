@@ -18,14 +18,14 @@ Regularization: The dense classifier utilizes dropout and L2 regularization to r
 - Show Recognizable Names Button: Displays a list of all the faces that the model can recognize.
 
 ## Requirements
-Python 3.x
-TensorFlow 2.x
-PyTorch
-facenet_pytorch
-scikit-learn
-matplotlib
-OpenCV
-albumentations
+- Python 3.x
+- TensorFlow 2.x
+- PyTorch
+- facenet_pytorch
+- scikit-learn
+- matplotlib
+- OpenCV
+- albumentations
   
 # GUI Overview
 
