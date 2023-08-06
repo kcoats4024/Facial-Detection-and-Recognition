@@ -1,4 +1,4 @@
-# Model Statistics & Project Summary
+# Convolutional Neural Network Statistics & Project Summary
 ![Accuracy and Loss of Model](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/b453a31c-6590-4f48-b676-032816770375)
 
 ### Graphical User Interface (GUI) Summary:
