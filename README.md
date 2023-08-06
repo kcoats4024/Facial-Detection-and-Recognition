@@ -17,25 +17,26 @@
 - Choose a face image for recognition. Ensure the face is listed among recognizable names (click "Show Recognizable Names" to view the list).
 - After selecting "Open", the cropped facial region from the image is displayed.
 
-Original:
+Original Image:
 ![Original Image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/0d02466e-e798-4ddc-bc29-0c9fd0fe1241)
 
-Cropped to face:
+Cropped Facial Region:
 
 ![Image Cropped to Face on GUI](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/ea7c5e02-a108-41be-a285-0ac9c0278996)
 
 - Now the Face is ready to be evaluated via the "Evaluate" button
 
 ### Evaluate Button:
-- Upon clicking, the image is ran through the model and a prediction of the name of the face along with the confidence score is displayed:
+- Click to process the cropped image through the model.
+- The model predicts the face's identity and displays it alongside a confidence score.
 ![GUI with prediction and confidence score](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/5dc193a2-f71a-4037-b601-60084f101fa5)
-- Now the evaluation is ready to be confirmed via the "Confirm" button
 
 ### Confirm Button:
-- Upon clicking (confirming the prediction is correct), the image will be filed into the corresponding person's folder, which has already been automatically created for all recognizable faces. All of these folders are in folder "target_folders"
+- Click to confirm the model's prediction.
+- The image is then saved into the respective individual's folder. (All recognizable faces have automatically generated folders under "target_folders").
 
 ![GUI with path to image with file application showing image in correct folder and all faces' folders created](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/a1b82b82-3feb-40f7-8b01-9cf2a0af1d1f)
 
 ### Show Recognizable Names Button:
-- Upon clicking, a list of all all recognizable faces by the model will be displayed
+- Click to view a list of all faces that the model can recognize.
 ![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/b48d44dc-c7eb-4289-84d7-560aa9a4a270)
