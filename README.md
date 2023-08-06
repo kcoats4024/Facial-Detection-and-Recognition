@@ -30,9 +30,8 @@ albumentations
 
 ![GUI Start Page](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/4412c0f0-4575-45ba-9eef-bf64548d3862)
 
-### Browse Image Button:
+## Browse Image Button:
 - Click to open the file explorer.
-## two
 - Choose a face image for recognition. Ensure the face is listed among recognizable names (click "Show Recognizable Names" to view the list).
 - After selecting "Open", the cropped facial region from the image is displayed.
 
