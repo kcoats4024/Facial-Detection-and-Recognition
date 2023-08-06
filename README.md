@@ -4,12 +4,12 @@ This repository contains a face recognition model built using a transfer learnin
 ![Accuracy and Loss of Model](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/b453a31c-6590-4f48-b676-032816770375)
 
 ## Model Overview
-FaceNet: The InceptionResnetV1 model from the facenet_pytorch library is utilized to convert face images into embeddings.
-Dense Neural Network: Once the embeddings are obtained, a dense neural network classifier is trained on these embeddings to recognize different faces.
+- FaceNet: The InceptionResnetV1 model from the facenet_pytorch library is utilized to convert face images into embeddings.
+- Dense Neural Network: Once the embeddings are obtained, a dense neural network classifier is trained on these embeddings to recognize different faces.
 Key Features
-Transfer Learning: Instead of training a deep model from scratch, the power of the pre-trained FaceNet model is harnessed to generate embeddings.
-Data Augmentation: To enhance the training data and increase generalization, various data augmentation techniques, such as horizontal flip and rotation, are employed.
-Regularization: The dense classifier utilizes dropout and L2 regularization to reduce the risk of overfitting.
+- Transfer Learning: Instead of training a deep model from scratch, the power of the pre-trained FaceNet model is harnessed to generate embeddings.
+- Data Augmentation: To enhance the training data and increase generalization, various data augmentation techniques, such as horizontal flip and rotation, are employed.
+- Regularization: The dense classifier utilizes dropout and L2 regularization to reduce the risk of overfitting.
 
 ## Graphical User Interface (GUI) Summary:
 - Browse Image Button: Allows users to select an image file to be recognized. The model can identify if the face in the image is one of the recognizable faces.
