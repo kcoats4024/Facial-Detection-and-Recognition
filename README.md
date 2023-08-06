@@ -32,7 +32,7 @@ Cropped Facial Region:
 
 ### Confirm Button:
 - Click to confirm the model's prediction.
-- The image is then saved into the respective individual's folder. (All recognizable faces have automatically generated folders under "target_folders", a path to the image is displayed to help find the image).
+- The image is automatically saved into its corresponding person's folder. Each recognizable face has a pre-generated folder located under "target_folders", and a path to the saved image is provided for easy retrieval.
 
 ![GUI with path to image with file application showing image in correct folder and all faces' folders created](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/a1b82b82-3feb-40f7-8b01-9cf2a0af1d1f)
 
