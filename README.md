@@ -8,7 +8,7 @@
 - Confirm Button: Once a prediction is made, users can confirm its accuracy. The image then gets filed into the corresponding person's folder. All these folders are automatically created for all recognizable faces and are housed within a "target_folders" directory.
 - Show Recognizable Names Button: Displays a list of all the faces that the model can recognize.
   
-# GUI
+# GUI Walkthrough
 
 ![GUI Start Page](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/4412c0f0-4575-45ba-9eef-bf64548d3862)
 
