@@ -43,18 +43,18 @@ Cropped Facial Region:
 
 ![Image Cropped to Face on GUI](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/ea7c5e02-a108-41be-a285-0ac9c0278996)
 
-### Evaluate Button:
+## Evaluate Button:
 - Click to process the cropped image through the model.
 - The model predicts the face's identity and displays it alongside a confidence score.
   
 ![GUI with prediction and confidence score](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/5dc193a2-f71a-4037-b601-60084f101fa5)
 
-### Confirm Button:
+## Confirm Button:
 - Click to confirm the model's prediction.
 - The image is automatically saved into its corresponding person's folder. Each recognizable face has a pre-generated folder located under "target_folders", and a path to the saved image is provided for easy retrieval.
 
 ![GUI with path to image with file application showing image in correct folder and all faces' folders created](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/a1b82b82-3feb-40f7-8b01-9cf2a0af1d1f)
 
-### Show Recognizable Names Button:
+## Show Recognizable Names Button:
 - Click to view a list of all faces that the model can recognize.
 ![image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/b48d44dc-c7eb-4289-84d7-560aa9a4a270)
