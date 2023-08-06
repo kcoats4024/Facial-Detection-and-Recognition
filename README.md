@@ -1,5 +1,6 @@
 # FaceNet Embeddings with Dense Classifier: A Transfer Learning Approach for LFW Face Recognition
 This repository contains a face recognition model built using a transfer learning approach. The model leverages embeddings from the pre-trained FaceNet model, followed by a dense neural network, to perform classification on the Labeled Faces in the Wild (LFW) dataset.
+
 ![Accuracy and Loss of Model](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/b453a31c-6590-4f48-b676-032816770375)
 
 ## Model Overview
