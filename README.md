@@ -8,15 +8,14 @@
 - Confirm Button: Once a prediction is made, users can confirm its accuracy. The image then gets filed into the corresponding person's folder. All these folders are automatically created for all recognizable faces and are housed within a "target_folders" directory.
 - Show Recognizable Names Button: Displays a list of all the faces that the model can recognize.
   
-# GUI Walkthrough
+# GUI Overview
 
 ![GUI Start Page](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/4412c0f0-4575-45ba-9eef-bf64548d3862)
 
 ### Browse Image Button:
-- Upon clicking, the files Application will appear - select file with a face to be recognized (make sure the face is recognizable by the model by clicking "Show Recognizable Names")
-
-![GUI with File Application](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/21b5c698-c474-4182-86fb-1964d67aa377)
-- Upon Selecting "Open" on files application, the cropped image of the face will appear
+- Click to open the file explorer.
+- Choose a face image for recognition. Ensure the face is listed among recognizable names (click "Show Recognizable Names" to view the list).
+- After selecting "Open", the cropped facial region from the image is displayed.
 
 Original:
 ![Original Image](https://github.com/kcoats4024/Facial-Detection-and-Recognition/assets/112397460/0d02466e-e798-4ddc-bc29-0c9fd0fe1241)
